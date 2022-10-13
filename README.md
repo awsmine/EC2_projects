@@ -7,4 +7,6 @@ A Repository of all my EC2 projects
 
 3. Cloudformation with VPC, EC2 Instance and Auto-Scaling group - https://dev.to/aws-builders/cloudformation-with-vpc-ec2-instance-and-auto-scaling-group-257
 
+4. Highly available web site with EC2, Custom VPC in 3 Public Subnets - https://dev.to/aws-builders/highly-available-web-site-with-ec2-custom-vpc-in-3-public-subnets-33kb
+
 
