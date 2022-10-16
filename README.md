@@ -9,4 +9,7 @@ A Repository of all my EC2 projects
 
 4. Highly available web site with EC2, Custom VPC in 3 Public Subnets - https://dev.to/aws-builders/highly-available-web-site-with-ec2-custom-vpc-in-3-public-subnets-33kb
 
+5. Deploying a highly available 3-tier architecture in AWS - https://dev.to/aws-builders/deploying-a-highly-available-3-tier-architecture-in-aws-5fmi
+
+
 
