@@ -11,5 +11,7 @@ A Repository of all my EC2 projects
 
 5. Deploying a highly available 3-tier architecture in AWS - https://dev.to/aws-builders/deploying-a-highly-available-3-tier-architecture-in-aws-5fmi
 
+6. End to end connection between two VPC’s (Target and Customer) using Endpoint service https://dev.to/aws-builders/end-to-end-connection-between-two-vpcs-target-and-customer-using-endpoint-service-5h13
+
 
 
