@@ -13,5 +13,7 @@ A Repository of all my EC2 projects
 
 6. End to end connection between two VPC’s (Target and Customer) using Endpoint service https://dev.to/aws-builders/end-to-end-connection-between-two-vpcs-target-and-customer-using-endpoint-service-5h13
 
+7. Create and mount an Amazon EFS file system (Amazon EFS) to an Amazon Elastic Compute Cloud (Amazon EC2) instance https://dev.to/aws-builders/create-and-mount-an-amazon-efs-file-system-amazon-efs-to-an-amazon-elastic-compute-cloud-amazon-ec2-instance-1fd4
+
 
 
