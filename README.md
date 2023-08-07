@@ -15,5 +15,7 @@ A Repository of all my EC2 projects
 
 7. Create and mount an Amazon EFS file system (Amazon EFS) to an Amazon Elastic Compute Cloud (Amazon EC2) instance https://dev.to/aws-builders/create-and-mount-an-amazon-efs-file-system-amazon-efs-to-an-amazon-elastic-compute-cloud-amazon-ec2-instance-1fd4
 
+8. Setting Up Application Load Balancer with a Sticky session for 2 webservers https://dev.to/awsmine/setting-up-application-load-balancer-with-a-sticky-session-for-2-webservers-1e76
+
 
 
