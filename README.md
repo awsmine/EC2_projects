@@ -17,5 +17,7 @@ A Repository of all my EC2 projects
 
 8. Setting Up Application Load Balancer with a Sticky session for 2 webservers https://dev.to/awsmine/setting-up-application-load-balancer-with-a-sticky-session-for-2-webservers-1e76
 
+9. Transfer files to Ubuntu Linux EC2 instances using an SCP client from your computer https://dev.to/aws-builders/new-transfer-files-to-ubuntu-linux-ec2-instances-using-an-scp-client-4fn3
+
 
 
