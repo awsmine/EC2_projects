@@ -19,5 +19,7 @@ A Repository of all my EC2 projects
 
 9. Transfer files to Ubuntu Linux EC2 instances using an SCP client from your computer https://dev.to/aws-builders/new-transfer-files-to-ubuntu-linux-ec2-instances-using-an-scp-client-4fn3
 
+10. How to run commands remotely on an EC2 Instance with AWS Systems Manager ---> https://dev.to/aws-builders/how-to-run-commands-remotely-on-an-ec2-instance-with-aws-systems-manager-1m2j
+
 
 
