@@ -21,5 +21,7 @@ A Repository of all my EC2 projects
 
 10. How to run commands remotely on an EC2 Instance with AWS Systems Manager ---> https://dev.to/aws-builders/how-to-run-commands-remotely-on-an-ec2-instance-with-aws-systems-manager-1m2j
 
+11. How to minimize your cloud spending on AWS resources using Systems Manager Automation documents ---> https://dev.to/aws-builders/how-to-minimize-your-cloud-spending-on-aws-resources-using-systems-manager-automation-documents-fjc
+
 
 
